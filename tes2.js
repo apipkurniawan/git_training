@@ -1,6 +1,6 @@
 // this is file tes2 
 
-function tesssss() {
+function tes() {
   const a = 'happy';
   console.log(a);
 }
